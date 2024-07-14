@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Data Insights Presentation Best Practices
 
 #### 1. Use a story structure to package insights
